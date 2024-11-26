@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs Refresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor 121212 "
+  message: "Welcome to EazyBank accounts related QA APIs \nRefresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor."
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"

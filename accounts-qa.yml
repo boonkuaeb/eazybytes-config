@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs Test Refresh from GitHub Using  Spring Cloud Bus no need to refresh Third Time "
+  message: "Welcome to EazyBank accounts related QA APIs Refresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
